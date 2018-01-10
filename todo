@@ -1,0 +1,26 @@
+Use only python3
+
+1) basics
+	print
+	if-else
+	for
+	while
+2) Using data structures
+	list
+	 * take a list of numbers, print length and maximum number in the list
+	string
+	* take a string eg: city="Hyderabad"
+	   - print length of the string.
+	   - print lower case of the string
+	   - print each letter in a separate line
+	   - print upper case of the string
+	   - print first three characters of the string
+	   - print last three characters of the string 
+	dictionary
+	  * define a dictionary of students with name and age as keys
+	  * print all names of students
+	  * print name - age of each student.
+	  * print length of the dictionary
+	tuple
+3) Functions
+4) Classes
